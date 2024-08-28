@@ -1,4 +1,3 @@
-### teste de readme
 
 ### Criei um pequeno bot para mandar msg no whatsapp estava tentando ter noções de como funciona as automações.
 
