@@ -1,5 +1,5 @@
 
-### Criei um pequeno bot para mandar msg no whatsapp estava tentando ter noções de como funciona as automações.
+### Criei um pequeno bot para mandar msg no whatsapp, estava tentando ter noções de como funciona as automações.
 
 ### Usei um video no youtube e tentei implementar uma nova função mas não deu certo, enfim e a vida.
 
